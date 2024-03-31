@@ -1,6 +1,6 @@
-# PERA App
+# ERMA App
 
-EMS assessment app for paramedics. Built with Swift and iOS SDK.
+Emergency Responder Medical Assistant. Built with Swift and iOS SDK.
 
 ## Getting Started
 
